@@ -1,0 +1,35 @@
+body{
+    background-color: #e8fbfc;
+}
+
+.link {
+    text-transform: uppercase;
+    color: #019097;
+    font-size: x-large;
+    font-style: normal;
+}
+
+a:hover {
+    color: rgb(209, 12, 77);
+}
+a:active{
+    color: yellow;
+}
+a:visited {
+    color: palevioletred;
+}
+
+li.item {
+    margin:0 0 10px 0;
+    width: 75%;
+ }
+
+li{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgb(192, 214, 255);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #66e2e9;
+}
